@@ -9,3 +9,4 @@ Our approach deployed BiLSTM and NaiveBayes and acquired F1 scores of 0.503 and 
 
 Link to shared task: https://dravidian-codemix.github.io/HASOC-2021/index.html
 
+Link to paper: https://parth126.github.io/T3-11.pdf
